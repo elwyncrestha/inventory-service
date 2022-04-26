@@ -17,4 +17,5 @@ public class Inventory extends BaseEntity<Long> {
 
     private String name;
     private Integer quantity;
+    private Integer price;
 }
